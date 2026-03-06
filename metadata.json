@@ -1,0 +1,5 @@
+{
+  "name": "WaniKani Story Weaver",
+  "description": "Personalized Japanese stories generated from your WaniKani 'leech' items to help you master difficult kanji and vocabulary.",
+  "requestFramePermissions": []
+}
